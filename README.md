@@ -1,4 +1,4 @@
-![Crazy Cooking](img/crazy-cooking-banner.jpg)
+![Crazy Cooking](recipes/img/crazy-cooking-banner.jpg)
 
 ## Cooking-Recipes
 
