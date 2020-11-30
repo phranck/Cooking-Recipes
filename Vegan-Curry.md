@@ -27,9 +27,9 @@
 * Knoblauch hinzugeben und nochmal kurz schwenken
 * jetzt schonmal einen Schwung der Gewuerze rein und das Ganze mit der Kokosmilch aufgiessen
 * 'ne Weile Blubbern lassen (Hitze kann von volle Pulle ein Drittel zurueckgenommen werden)
-* nun das restliche Gemuese grob geschnitte dazugeben und blubbern lassen
+* nun das restliche Gemuese grob geschnitten dazugeben und blubbern lassen
 * zwischendurch auch mal abschmecken
 * wenn die Menge der Ploerre nicht reicht, dann mit Wasser oder Gemuesebruehe auffuellen (ich nehm meist Wasser und wuerze von Hand nach), noch'n Schuss Kokosmilch geht natuerlich auch
-* das Ganze noch eine Weile blubbern lassen, bis das Gemuese noch bissfest, aber nicht matschig ist
+* das Ganze eine Weile blubbern lassen, bis das Gemuese noch bissfest, aber nicht matschig ist
 * sollte die Ploerre zu duenn sein, dann dicke ich mit etwas Mais- oder Kartoffelstaerke nach (in etwas kaltem Wasser anruehren). Die Dicke oder Saehmigkeit sollte aber durch die mehlige Kartoffel und die Hefeflocken zustande kommen
 * am Schluss dann den frischen Ingwer hineinraspeln und die Jungzwiebel geschnibbelt hinzugeben
