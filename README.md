@@ -5,7 +5,7 @@ Das hier ist eine lose Sammlung an Rezepten eines [iOS / macOS / Flutter Program
 ## Die Rezepte
 * [Vegan Curry](rcps/Vegan-Curry.md)
 
-## Disclaimer
+## Haftungsausschluss
 Nur, dass es klar ist. Das ist ***MEINE*** Sammlung! Ihr duerft sie lesen und benutzen. Aber was am Ende bei rumkommt, dass ist eure Kiste. Also kommt nicht angeheult von wegen... *"Mimimi... das schmeckt mir aber so nicht! Und ausserdem geht diese und jene Zutat ueberhaupt nicht, weil da... weil, weil... naja, geht halt nicht!"*
 
 Wenn du:
@@ -17,6 +17,6 @@ Wenn du:
 
 **Ausserdem**: Einen Thermomix benutzen nur Heulsusen! Wer zwei von diesem Teufelswerk besitzt... lassen wir das.
 
-## Copyright
+## Urheberrecht
 Das ganze Geraffel hier steht unter der [WTFPL v2](https://en.wikipedia.org/wiki/WTFPL#Version_2) Lizenz.  
 Und ja, ich habe das Bild da oben [gekauft](https://thehungryjpeg.com/product/3806080-kitchen-tools-continuous-one-line-drawing-kitchen-utensils-cooking-t)! Wer's nicht glaubt, kann sich [hier die Rechnung](rsrcs/invoice_680108.pdf) anschauen (PDF).
