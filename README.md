@@ -1,10 +1,10 @@
 ![Crazy Cooking](img/crazy-cooking-banner.jpg)
 
-## Cooking-Recieps
+## Cooking-Recipes
 
 Eine lose Sammlung an Rezepten eines hobbyholzwerkenden Programmierers, der hin und wieder gerne kocht.
 
-* [Vegan Curry](https://github.com/phranck/Cooking-Recieps/blob/main/Vegan-Curry.md)
+* [Vegan Curry](recipes/Vegan-Curry.md)
 
 ## Disclaimer
 Nur, dass es klar ist. Das ist ***MEINE*** Sammlung! Ihr duerft sie lesen und benutzen. Aber was am Ende bei rumkommt, dass ist eure Kiste. Also kommt nicht angeheult von wegen... *"Mimimi... das schmeckt mir aber so nicht! Und ausserdem geht diese und jene Zutat ueberhaupt nicht, weil da... weil, weil... naja, geht halt nicht!"*
