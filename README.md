@@ -1,6 +1,6 @@
 ![Crazy Cooking](img/crazy-cooking-banner.jpg)
 
-## Cooking-Recieps
+## Cooking-Recipes
 
 Eine lose Sammlung an Rezepten eines hobbyholzwerkenden Programmierers, der hin und wieder gerne kocht.
 
