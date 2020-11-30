@@ -1,5 +1,8 @@
 # Vegan Curry
 
+![Vegan Curry](img/vegan-curry.jpeg)
+
+
 ### Zutaten
 * Reis nach Wahl
 * 1 kleine Karotte
