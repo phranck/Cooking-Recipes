@@ -7,7 +7,7 @@
 * Reis nach Wahl
 * 1 kleine Karotte
 * 1 kleine Kartoffel (mehlig)
-* 1 kleine Suesskartoffel (die Groesse eines aufgeblasenen Golfballs reicht)
+* 1 kleine Suesskartoffel (~die Groesse eines aufgeblasenen Golfballs~ ca. so gross wie ein Golfball reicht)
 * 1 Zwiebel
 * 2-3 Knoblauchzehen (oder mehr, oder weniger)
 * frischer Ingwer
