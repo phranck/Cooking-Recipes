@@ -13,7 +13,7 @@ Wenn du:
 * dir in den Finger schnibbelst: **Deine Schuld!**
 * dir die Zunge beim Abschmecken verbrennst: **Deine Schuld!**
 * eine falsche Zutat kaufst: **Deine Schuld!**
-* den Kochtopp auf'm Herd beim Netflix Binge-Watching vergisst: **Deine Schuld!**
+* den Kochtopp auf'm Herd beim [Netflix Binge-Watching](https://www.netflix.com/search?q=IT%20Crowd&jbv=70140450) vergisst: **Deine Schuld!**
 * ... (2 be continued)
 
 **Ausserdem**: Einen Thermomix benutzen nur Heulsusen! Wer zwei von diesem Teufelswerk besitzt... lassen wir das.
