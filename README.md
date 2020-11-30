@@ -15,8 +15,9 @@ Wenn du:
 * den Kochtopp auf'm Herd beim [Netflix Binge-Watching](https://www.netflix.com/search?q=IT%20Crowd&jbv=70140450) vergisst: **Deine Schuld!**
 * ... (2 be continued)
 
-**Ausserdem**: Einen Thermomix benutzen nur Heulsusen! Wer zwei von diesem Teufelswerk besitzt... lassen wir das.
+**Ausserdem**: Einen Thermomix™© benutzen nur Heulsusen! Wer zwei von diesem Teufelswerk besitzt... lassen wir das.
 
 ## Urheberrecht
 Das ganze Geraffel hier steht unter der [WTFPL v2](https://en.wikipedia.org/wiki/WTFPL#Version_2) Lizenz.  
-Und ja, ich habe das Bild da oben [gekauft](https://thehungryjpeg.com/product/3806080-kitchen-tools-continuous-one-line-drawing-kitchen-utensils-cooking-t)! Wer's nicht glaubt, kann sich [hier die Rechnung](rsrcs/invoice_680108.pdf) anschauen (PDF).
+Und ja, ich habe das Bild da oben [gekauft](https://thehungryjpeg.com/product/3806080-kitchen-tools-continuous-one-line-drawing-kitchen-utensils-cooking-t)! Wer's nicht glaubt, kann sich [hier die Rechnung](rsrcs/invoice_680108.pdf) anschauen (PDF).  
+Ansonsten sind alle Photos hier **MEINE**.
