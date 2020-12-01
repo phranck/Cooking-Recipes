@@ -18,7 +18,7 @@ Die Reaktion folgte auf den Schlag von uns Dreien gleichzeitig: *"Boah, ist das 
 * Pflanzenoel oder vegan Butter
 
 ### Zubereitung
-* Zuerst die Panierploerre anruehren. Dazu die Maisstaerke mit den Gewuerzen vermischen und Wasser hinzugeben. Nicht zu viel und nicht zu wenig. Das Ganze sollte geradeso nicht mehr nichtnewtonisch sein (siehe unten). 🤪\
+* Zuerst die Panierploerre anruehren. Dazu die Maisstaerke mit den Gewuerzen vermischen und Wasser hinzugeben. Nicht zu viel und nicht zu wenig. Aber bitte bei den Gewuerzen ruhig ordentlich zulangen! Irgendwo muss der Geschmack ja herkommen (vom Tofu ganz sicher nicht). Das Ganze sollte geradeso nicht mehr nichtnewtonisch sein (siehe unten). 🤪\
 \
 *Spannende Randnotiz*: Dieses Maisstaerke-Wasser Gemisch ergibt eine so genannte *"[nichtnewtonische Flüssigkeit](https://de.wikipedia.org/wiki/Rheologie#Eigenschaften_nichtnewtonscher_Flüssigkeiten)"*. Eine Fluessigkeit also, die sich bei langsamen Bewegungen wie eine normale Fluessigkeit (Wasser) verhaelt, jedoch bei schnellen Bewegungen Eigenschaften eines Festkoerpers zeigt. Da gibt es echt [witzige Experimente](https://www.youtube.com/watch?v=RIUEZ3AhrVE) dazu.
 
