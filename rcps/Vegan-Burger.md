@@ -1,6 +1,6 @@
 # Vegan Burger
 
-![Vegan Burger](img/vegan-burger.jpeg) "Leckerste Burger vong Welt!"
+![Vegan Burger](img/vegan-burger.jpeg "Leckerste Burger vong Welt!")
 
 Die Inspiration zu diesem wirklich einfachen, schnell zubereitetem und echt leckerem Burger kam mir beim Stoebern im Buch von [Gaz Oakley](https://www.avantgardevegan.com), dessen Rezepte ich wirklich liebe! Nach der ersten Zubereitung saßen meine beiden Maedels und ich am Tisch, betrachteten dieses optisch gar nicht so uebel gelungene Stueck Futter und dachten: *"Okaay... mal schauen, was uns da erwartet."*
 
