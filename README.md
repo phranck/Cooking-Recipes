@@ -2,6 +2,8 @@
 
 Das hier ist eine lose Sammlung an Rezepten eines [iOS / macOS / Flutter Programmierers](https://cocoanaut.com), der hin und wieder gerne kocht und sich fuers [Holzwerken](https://woodbytes.me) interessiert. Der Spruch: *"Irgendwas mit Holz"*, der existiert nicht einfach nur so. Nee, ich lebe den auch. 🤪
 
+**Hinweis**: Vielleicht etwas zur Orientierung, weil auf Twitter schon die ein oder andere Frage dazu kam. ***Ich werde hier ausschliesslich vegane Rezepte veroeffentlichen. Tierisches oder gar Leichenteile haben hier keinen Platz.***
+
 ## Die Rezepte
 * [Vegan Curry](rcps/Vegan-Curry.md)
 * [Vegan Burger](rcps/Vegan-Burger.md)
