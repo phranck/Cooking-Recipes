@@ -4,6 +4,8 @@ Das hier ist eine lose Sammlung an Rezepten eines [iOS / macOS / Flutter Program
 
 **Hinweis**: Vielleicht etwas zur Orientierung, weil auf Twitter schon die ein oder andere Frage dazu kam. ***Ich werde hier ausschliesslich vegane Rezepte veroeffentlichen. Tierisches oder gar Leichenteile haben hier keinen Platz.***
 
+Daher lasse ich das Praefix "Vegan" bei den Rezepten in Zukunft auch weg.
+
 ## Die Rezepte
 * [Vegan Curry](rcps/Vegan-Curry.md)
 * [Vegan Burger](rcps/Vegan-Burger.md)
