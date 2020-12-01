@@ -24,5 +24,5 @@ Wenn du:
 
 ## Urheberrecht
 Das ganze Geraffel hier steht unter der [WTFPL v2](https://en.wikipedia.org/wiki/WTFPL#Version_2) Lizenz.  
-Und ja, ich habe das Bild da oben [gekauft](https://thehungryjpeg.com/product/3806080-kitchen-tools-continuous-one-line-drawing-kitchen-utensils-cooking-t)! Wer's nicht glaubt, kann sich [hier die Rechnung](rsrcs/invoice_680108.pdf) anschauen (PDF).  
+Und ja, ich habe das Bild da oben [gekauft](https://thehungryjpeg.com/product/3806080-kitchen-tools-continuous-one-line-drawing-kitchen-utensils-cooking-t)! Wer es genau wissen moechte, ich versende gerne auf Anfrage eine Kopie der Rechnung.  
 Ansonsten sind alle Photos hier **MEINE**.
