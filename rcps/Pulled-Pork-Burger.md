@@ -45,6 +45,6 @@ Wenn nicht, dann doch besser [beim Original nachschauen](https://youtu.be/Hxg38n
 * So, nach ca. 10-15 Minuten alles wieder aus dem Ofen raus (oder auch schon vorher, wenn's anfaengt zu qualmen).
 * Pilzpampe ins Bun/zwischen die Toastscheiben und zusammen mit den Kartoffeln auf einem echt nicen Teller servieren und geniessen.
 
-![Pulled "Pork" Burger/Sandwich - Fertsch](img/pulled-pork/pp-3.jpeg "OMG, das ist soo gut!")
-
 Bon appétit! 🍔
+
+![Pulled "Pork" Burger/Sandwich - Fertsch](img/pulled-pork/pp-3.jpeg "OMG, das ist soo gut!")
