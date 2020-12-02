@@ -15,7 +15,7 @@ Die Reaktion folgte auf den Schlag von uns Dreien gleichzeitig: *"Boah, ist das 
 * Salz, Pfeffer, suesses Paprika-Pulver, Knoblauch-Pulver
 * Semmelbroesel
 * Wasser
-* Pflanzenoel oder vegan Butter
+* pflanz. Oel oder Vegan Butter
 
 ### Zubereitung
 * Zuerst die Panierploerre anruehren. Dazu die Maisstaerke mit den Gewuerzen vermischen und Wasser hinzugeben. Nicht zu viel und nicht zu wenig. Aber bitte bei den Gewuerzen ruhig ordentlich zulangen! Irgendwo muss der Geschmack ja herkommen (vom Tofu ganz sicher nicht). Das Ganze sollte geradeso nicht mehr nichtnewtonisch sein (siehe unten). 🤪\
