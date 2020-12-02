@@ -31,7 +31,10 @@ Wenn nicht, dann doch besser [beim Original nachschauen](https://youtu.be/Hxg38n
 * Pilze rein und etwas cross anbruzzeln (nicht zu viel wenden). Kraeuter-Seitlinge haben recht wenig Fluessigkeit. In der Pfanne wird es dann als eher trocken ausschauen. In dem Fall einfach noch ein **bisschen** vom Fett dazu.
 * Nebenher die Kartoffeln halbieren, in die gleiche Schuessel geben, in der zuvor die Pilze wahren (da sind ja noch etwas Gewuerze drin!), etwas Oel druebber und ordentlich mit Salz und schwarzem Pfeffer wuerzen.
 * Wenn die Pilze ein bisschen Farbe bekommen haben, dann kommen sie aus der Pfanne in die zweite Schuessel. Dazu kommt jetzt die BBQ Sosse und der Schuss Bier. Alles gut vermengen. Das Ganze ergibt dann eine schoen saemige Pampe.
-* Zweite Pfanne aufs Feuer, heiss werden lassen, Oel/Butter rein und die halbierten Kartoffeln zuerst mit der Schnittflaeche darin verteilen. Schoen cross anbruzzeln!
+* Pfanne wieder aufs Feuer, noch etwas Oel/Butter rein und die halbierten Kartoffeln zuerst mit der Schnittflaeche darin verteilen. Schoen cross anbruzzeln!
+
+![Pulled "Pork" Burger/Sandwich - Kartoffeln](img/pulled-pork/pp-1.jpeg "Kartoffeln cross anbruzzeln lassen")
+
 * Backpapier aufs Blech, Pilzpampe druff und ab in den vorgeheizten Backofen (200 Grad Celsius Umluft)
 
 ![Pulled "Pork" Burger/Sandwich - Pilzpampe](img/pulled-pork/pp-2.jpeg "Pilzpampe, nachdem sie im Backofen war")
@@ -41,5 +44,7 @@ Wenn nicht, dann doch besser [beim Original nachschauen](https://youtu.be/Hxg38n
 * Waehrend das Zeugs nun im Ofen vor sich hinschmort, in der Pfanne, in der die Kartoffeln waren, etwas Butter rein, und die Buns/Sandwich Scheiben ein bissi knusprig toasten
 * So, nach ca. 10-15 Minuten alles wieder aus dem Ofen raus (oder auch schon vorher, wenn's anfaengt zu qualmen).
 * Pilzpampe ins Bun/zwischen die Toastscheiben und zusammen mit den Kartoffeln auf einem echt nicen Teller servieren und geniessen.
+
+![Pulled "Pork" Burger/Sandwich - Fertsch](img/pulled-pork/pp-3.jpeg "OMG, das ist soo gut!")
 
 Bon appétit! 🍔
