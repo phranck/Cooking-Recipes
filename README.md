@@ -9,6 +9,7 @@ Daher lasse ich das Praefix "Vegan" bei den Rezepten in Zukunft auch weg.
 ## Die Rezepte
 * [Vegan Curry](rcps/Vegan-Curry.md)
 * [Vegan Burger](rcps/Vegan-Burger.md)
+* [Pulled "Pork" Burger](rcps/Pulled-Pork-Burger.md)
 
 ## Haftungsausschluss
 Nur, dass es klar ist. Das ist ***MEINE*** Sammlung! Ihr duerft sie lesen und benutzen. Aber was am Ende bei rumkommt, dass ist eure Kiste. Also kommt nicht angeheult von wegen... *"Mimimi... das schmeckt mir aber so nicht! Und ausserdem geht diese und jene Zutat ueberhaupt nicht, weil da... weil, weil... naja, geht halt nicht!"*
