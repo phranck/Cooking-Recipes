@@ -7,7 +7,7 @@ Die Inspiration zu diesem wirklich einfachen, schnell zubereitetem und echt leck
 Die Reaktion folgte auf den Schlag von uns Dreien gleichzeitig: *"Boah, ist das lecker!"*. Sowohl meine Frau als auch Toechterchen wollten ab diesem Moment gar keine anderen Burger mehr essen. Mission accomplished! 😎
 
 ### Zutaten (4 Burger)
-* Burger-Buns nach Wahl (gekauft oder selbstgemacht)
+* Burger-Buns nach Wahl (gekauft oder [selbstgemacht](https://www.instagram.com/p/CDjYjv7jPRu/))
 * 1 Stueck Tofu (fest, nicht zu waessrig)
 * Gurken, Paprika, Tomaten, Salat in gewuenschter Menge zum Belegen
 * diverse Burger-Sossen nach Wahl
