@@ -11,7 +11,7 @@ Die Reaktion folgte auf den Schlag von uns Dreien gleichzeitig: *"Boah, ist das 
 * 1 Stueck Tofu (fest, nicht zu waessrig)
 * Gurken, Paprika, Tomaten, Salat in gewuenschter Menge zum Belegen
 * diverse Burger-Sossen nach Wahl
-* Mais-Staerke, ca. 3 gehaeufte Essloeffel
+* Mais-Staerke, ca. 3-4 gehaeufte Essloeffel
 * Salz, Pfeffer, suesses Paprika-Pulver, Knoblauch-Pulver
 * Semmelbroesel
 * Wasser
@@ -21,6 +21,8 @@ Die Reaktion folgte auf den Schlag von uns Dreien gleichzeitig: *"Boah, ist das 
 * Zuerst die Panierploerre anruehren. Dazu die Maisstaerke mit den Gewuerzen vermischen und Wasser hinzugeben. Nicht zu viel und nicht zu wenig. Aber bitte bei den Gewuerzen ruhig ordentlich zulangen! Irgendwo muss der Geschmack ja herkommen (vom Tofu ganz sicher nicht). Das Ganze sollte geradeso nicht mehr nichtnewtonisch sein (siehe unten). 🤪\
 \
 *Spannende Randnotiz*: Dieses Maisstaerke-Wasser Gemisch ergibt eine so genannte *"[nichtnewtonische Flüssigkeit](https://de.wikipedia.org/wiki/Rheologie#Eigenschaften_nichtnewtonscher_Flüssigkeiten)"*. Eine Fluessigkeit also, die sich bei langsamen Bewegungen wie eine normale Fluessigkeit (Wasser) verhaelt, jedoch bei schnellen Bewegungen Eigenschaften eines Festkoerpers zeigt. Da gibt es echt [witzige Experimente](https://www.youtube.com/watch?v=RIUEZ3AhrVE) dazu.
+
+Dieses Verhalten kann man mit der Ploerre selbst testen. Wird mit dem Loeffel zu schnell darin herumgeruehrt, dann wird das Zeugs "fest". Es macht dicht, der Loeffel laesst sich fast nimmer bewegen. Der Trick ist also, diese Ploerre so fluessig zu machen, dass sie geradeso nicht mehr "fest" wird, bei schnellen Bewegungen. 😃
 
 Okay, weiter mit dem Futter...
 * Nun als Vorbereitung das ganze Beilagengemuese in handliche Teilchen schnibbeln. Das soll ja dann spaeter alles irgendwie in den Burger rein.
