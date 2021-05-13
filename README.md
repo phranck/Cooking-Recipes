@@ -1,6 +1,6 @@
 ![Crazy Cooking](rcps/img/crazy-cooking-banner.jpg)
 
-Das hier ist eine lose Sammlung an Rezepten eines [iOS / macOS / Flutter Programmierers](https://cocoanaut.com), der hin und wieder gerne kocht und sich fuers [Holzwerken](https://woodbytes.me) interessiert. Der Spruch: *"Irgendwas mit Holz"*, der existiert nicht einfach nur so. Nee, ich lebe den auch. 🤪
+Das hier ist eine lose Sammlung an Rezepten eines [iOS / macOS / Flutter Programmierers](https://www.linkedin.com/in/phranck/), der hin und wieder gerne kocht und sich fuers [Holzwerken](https://woodbytes.me) interessiert. Der Spruch: *"Irgendwas mit Holz"*, der existiert nicht einfach nur so. Nee, ich lebe den auch. 🤪
 
 **Hinweis**: Vielleicht etwas zur Orientierung, weil auf Twitter schon die ein oder andere Frage dazu kam. ***Ich werde hier ausschliesslich vegane Rezepte veroeffentlichen. Tierisches oder gar Leichenteile haben hier keinen Platz.***
 
