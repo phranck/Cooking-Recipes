@@ -27,7 +27,7 @@ Doch, probiert es selbst. Es gibt nur drei *"P"s* als Zutaten:
 
 ### Zubereitung
 
-Grund und Basis von all dem sind natuerlich die Austern-Pilze.
+Grund und Basis von all dem sind natuerlich die Austern-Pilze. Ein wirklich sehr vielseitig verwendbares Gewaechs. Ich liebe ihn...
 
 ![Austern-Pilze](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Austern-Seitling_Austernpilz_Pleurotus_ostreatus.JPG/1024px-Austern-Seitling_Austernpilz_Pleurotus_ostreatus.JPG "Holger Krisp, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons")
 
@@ -38,5 +38,7 @@ Grund und Basis von all dem sind natuerlich die Austern-Pilze.
 * Pilz aus der Panade raus und auf einem Brett ruhen lassen
 * Wenn alle Pilze paniert sind, dann in einer grossen Pfanne reichlich Oel richtig heiss werden lassen
 * Naja, und dann die Pilze darin von allen Seiten goldgelb und wunderknusprig brutzeln. Eh klar.
+
+Btw: Das mit den Gewuerzen da oben ist nicht unbedingt so genau zu nehmen. Fuer den einen kann es "ruhig etwas mehr" sein, fuer die andere etwas weniger. Ich hab die Erfahrung gemacht, die Ploerre lieber etwas zu kraeftig zu wuerzen. Dem Resultat tut das geschmacklich durchaus gut.
 
 Fertig. Guten Appetit! 😃
