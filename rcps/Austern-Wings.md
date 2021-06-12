@@ -2,7 +2,7 @@
 
 ![Die kleinen Goldstuecke](img/wings/wings2.jpeg)
 
-Diese im Original genannten "Vegan Wings" (ich hab die mal irgendwo auf Instagram entdeckt), sind wirklich eine kleine Koestlichkeit. Benutzt werden hierfuer Austern-Pilze (die es ja in vielen Variationen gibt). Der Austern-Pilz (aehnlich wie der Kraeuterseitling auch) enthaelt selbst sehr wenig Wasser, wodurch er sich hervorragend zum pannieren und brutzeln eignet.
+Diese im Original genannten "Vegan Wings" (ich hab die mal irgendwo auf Instagram entdeckt), sind wirklich eine kleine Koestlichkeit. Benutzt werden hierfuer Austern-Pilze (die es ja in vielen Variationen gibt). Der Austern-Pilz (aehnlich wie der Kraeuterseitling auch) enthaelt selbst sehr wenig Wasser, wodurch er sich hervorragend zum panieren und brutzeln eignet.
 
 Doch, probiert es selbst. Es gibt nur drei *"P"s* als Zutaten:
 1. Pilze
