@@ -29,7 +29,7 @@ Doch, probiert es selbst. Es gibt nur drei *"P"s* als Zutaten:
 
 Grund und Basis von all dem sind natuerlich die Austern-Pilze.
 
-![Austern-Pilze](https://commons.wikimedia.org/wiki/File:Austern-Seitling_Austernpilz_Pleurotus_ostreatus.JPG "Holger Krisp, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons")
+![Austern-Pilze](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Austern-Seitling_Austernpilz_Pleurotus_ostreatus.JPG/1024px-Austern-Seitling_Austernpilz_Pleurotus_ostreatus.JPG "Holger Krisp, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons")
 
 * Pilze, wenn noetig, ein bisschen uniformieren, aka auf gleiche, Mund- oder Fingerfood gerechte Groesse bringen
 * die Zutaten sowohl fuer die Ploerre als auch die Panade in jeweils einer Schuessel gut vermischen
