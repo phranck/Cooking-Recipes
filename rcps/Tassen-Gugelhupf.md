@@ -2,7 +2,7 @@
 
 Nun, ich verliere gar nicht viele Worte, sondern komme gleich zum Punkt. Dem Code, zu diesem leckeren Kuchen. 🤓
 
-Das Ganze gibt es [hier als Swift-Playground](./Tassen-Gugelhupf.zip). Herunterladen, in Xcode oeffnen und starten.  \
+Das Ganze gibt es [hier als Swift-Playground](https://github.com/phranck/Cooking-Recipes/raw/main/rcps/Tassen-Gugelhupf.zip). Herunterladen, in Xcode oeffnen und starten.  \
 Bon apetit!
 
 ```swift
